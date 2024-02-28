@@ -10,5 +10,6 @@ public class SOSActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sosactivity);
+        System.out.println("Hi, Welcome to SafeHaven");
     }
 }
